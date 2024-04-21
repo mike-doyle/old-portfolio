@@ -12,8 +12,28 @@
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />
 <br />
 
- ---
+
 ## Education
-- B.S. Software Engineering | Western Governors Univrersity (_Dec 2023 - June 2026_)
-- A.S. Applied Management | Green River Community College (_Sept 2020 - June 2022_)
+- B.S. Software Engineering | Western Governors Univrersity (_June 2026_)
+- A.S. Applied Management | Green River Community College (_June 2022_)
+
+
+## Work Experience 
+**Quality Services @ Amazon - Luna Cloud Gaming (_August 2022 - Present_)**
+- Devloped and maintained catalog health improving cusomter retention by 35%
+- Tested and certified titles launching on the Luna platform
+- Paticipated in major platform releases such as the Fallout titles and GOG
+
+**Senior Accountant @ Topline Counters LLC (_July 2019 - Nov 2023_)**
+- Maintained and reviewed contract accounts
+- Trained multiple new employees in proper GAAP
+- Lead company in payment collections totalling over $3 Million in gross profit
+
+
+## Projects
+### "The Rotten Saga" 2D Unity Game for PC, iOS, & Android Devices 
+**Project Site:** <a href="https://theyokai.itch.io/the-rotten-saga"> "The Rotten Saga" </a>
+- Title will launch as Free to Play
+- Built in Unity
+- Title expected to launch DEC 2026
  
