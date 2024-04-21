@@ -1,4 +1,6 @@
-# Software Engineer - Game Developer
+<span font-family="inter"> 
+
+ # Software Engineer - Game Developer
 
 #### Technical Skills: 
 
@@ -36,4 +38,5 @@
 - Title will launch as Free to Play
 - Built in Unity
 - Title expected to launch DEC 2026
+</span>
  
