@@ -34,10 +34,12 @@
 
 
 ## Projects
-### "The Rotten Saga" 2D Unity Game for PC, iOS, & Android Devices 
-**Project Site:** <a href="https://theyokai.itch.io/the-rotten-saga"> "The Rotten Saga" </a>
+### <a href="https://theyokai.itch.io/the-rotten-saga"> _The Rotten Saga_ </a> - Oct. 2026
 - Title will launch as Free to Play
+- Platforms: PC, iOS, & Android Devices 
 - Built in Unity
-- Title expected to launch DEC 2026
+- Title expected to launch OCT 2026
+
+
 </span>
  
