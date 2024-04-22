@@ -38,7 +38,4 @@
 - Title will launch as Free to Play
 - Platforms: PC, iOS, & Android Devices 
 - Built in Unity
-
-
-</span>
  
