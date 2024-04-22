@@ -23,7 +23,7 @@
 
 ## Work Experience 
 **Quality Services @ Amazon - Luna Cloud Gaming | _August 2022 - Present_**
-- Devloped and maintained catalog health improving cusomter retention by 35%
+- Devloped and maintained catalog health improving customer retention by 35%
 - Tested and certified titles launching on the Luna platform
 - Paticipated in major platform releases such as the Fallout titles and GOG
 
