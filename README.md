@@ -17,7 +17,7 @@
 
 
 ## Education
-- B.S. Software Engineering | Western Governors University | _June 2026_
+- B.S. Software Engineering | WGU | _June 2026_
 - A.S. Applied Management | Green River College | _June 2022_
 
 
