@@ -17,17 +17,17 @@
 
 
 ## Education
-- B.S. Software Engineering | WGU (_June 2026_)
-- A.S. Applied Management | Green River College (_June 2022_)
+- B.S. Software Engineering | Western Governors University | _June 2026_
+- A.S. Applied Management | Green River College | _June 2022_
 
 
 ## Work Experience 
-**Quality Services @ Amazon - Luna Cloud Gaming (_August 2022 - Present_)**
+**Quality Services @ Amazon - Luna Cloud Gaming | _August 2022 - Present_**
 - Devloped and maintained catalog health improving cusomter retention by 35%
 - Tested and certified titles launching on the Luna platform
 - Paticipated in major platform releases such as the Fallout titles and GOG
 
-**Senior Accountant @ Topline Counters LLC (_July 2019 - Nov 2023_)**
+**Senior Accountant @ Topline Counters LLC | _July 2019 - Nov 2023_**
 - Maintained and reviewed contract accounts
 - Trained multiple new employees in proper GAAP
 - Lead company in payment collections totalling over $3 Million in gross profit
