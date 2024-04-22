@@ -1,6 +1,7 @@
 <span font-family="inter"> 
 
- # Software Engineer - Game Developer
+ 
+# Software Engineer - Game Developer
 
 #### Technical Skills: 
 
