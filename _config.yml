@@ -3,7 +3,7 @@ logo: /assets/img/headshot_circle.png
 description: Hello, my name is Mike. Please contact me either through Email or DM on LinkedIn
 show_downloads: true
 # theme: jekyll-theme-minimal
-remote-theme: remote-pure-pool
+remote-theme: not-pure-pool
 
 
 
