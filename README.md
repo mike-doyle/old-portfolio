@@ -5,7 +5,7 @@
 
 ---
 
- <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 2rem;" href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold;font-size: 2rem;"  href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 2rem;" href="https://mike-doyle.itch.io/"> Itch.io </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 2rem;" href="mailto:mikedoyle.wa@gmail.com?subject=Professional%20Business%20Opportunity"> mikedoyle.wa@gmail.com </a> 
+ <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 1.2rem;" href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold;font-size: 1.2rem;"  href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 1.2rem;" href="https://mike-doyle.itch.io/"> Itch.io </a> | <a style="color: cornflowerBlue; font-family: Inter; font-weight: bold; font-size: 1.2rem;" href="mailto:mikedoyle.wa@gmail.com?subject=Professional%20Business%20Opportunity"> mikedoyle.wa@gmail.com </a> 
  
 
 #### Technical Skills: 
