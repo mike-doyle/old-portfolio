@@ -3,6 +3,8 @@
  
 # Software Developer
 
+| <a href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a href="https://mike-doyle.itch.io/"> Games I made! |
+
 #### Technical Skills: 
 
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
