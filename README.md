@@ -5,8 +5,6 @@
 
 ---
 
-#### Social Links:
-
  <a style="color: black; font-family: Inter; font-weight: bold;" href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a style="color: black; font-family: Inter; font-weight: bold;"  href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a style="color: black; font-family: Inter; font-weight: bold;" href="https://mike-doyle.itch.io/"> Itch.io </a> | <a style="color: black; font-family: Inter; font-weight: bold;" href="mailto:mikedoyle.wa@gmail.com?subject=Professional%20Business%20Opportunity"> mikedoyle.wa@gmail.com </a> 
  
 
