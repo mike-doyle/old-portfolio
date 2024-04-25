@@ -5,7 +5,7 @@
 
 #### Social Links:
 
- <a href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a href="https://mike-doyle.itch.io/"> Games I made! </a> | <a href="mailto:mikedoyle.wa@gmail.com?subject=Professional%20Business%20Opportunity"> mikedoyle.wa@gmail.com </a> 
+ <a style="color: black;" href="www.linkedin.com/in/mikedoyletech"> LinkedIn </a> | <a style="color: black;"  href="https://www.youtube.com/@MDCodez"> YouTube </a> | <a style="color: black;" href="https://mike-doyle.itch.io/"> Games I made! </a> | <a style="color: black;" href="mailto:mikedoyle.wa@gmail.com?subject=Professional%20Business%20Opportunity"> mikedoyle.wa@gmail.com </a> 
 
 #### Technical Skills: 
 
